@@ -11,7 +11,7 @@
 	<key>CFBundleIconFile</key>
 	<string>appicon.png</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.appcelerator.titanium</string>
+	<string>com.appcelerator.oiltracker</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -41,5 +41,7 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+        <key>UIStatusBarStyle</key>
+        <string>UIStatusBarStyleDefault</string>
 </dict>
 </plist>
